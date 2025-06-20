@@ -30,6 +30,8 @@ The script will:
 - Save the model information to `model_info.txt`
 - Save the training logs to `training_logs.txt`
 
+<!-- OPENAI_API_KEY=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 -->
+
 ## Using the Fine-tuned Model
 
 Once training is complete, you can use the fine-tuned model with the OpenAI API by specifying the model name that will be provided in the output and saved to `model_info.txt`.
@@ -49,4 +51,4 @@ Once training is complete, you can use the fine-tuned model with the OpenAI API 
 - Monitor your OpenAI usage to avoid unexpected costs
 - The model will be available in your OpenAI account after training
 
-// OPENAI_API_KEY=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
+ 
