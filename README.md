@@ -1,5 +1,8 @@
 # IK-Society Chatbot Fine-tuning
 
+![Chatbot UI](Pictures/Img%20-%201.png)
+![Chatbot UI](Pictures/Img%20-%202.png)
+
 This project contains the code and data for fine-tuning a GPT-3.5-turbo model to create a chatbot for IK-Society.
 
 ## Setup
