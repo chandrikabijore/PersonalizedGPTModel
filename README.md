@@ -48,3 +48,5 @@ Once training is complete, you can use the fine-tuned model with the OpenAI API 
 - Training may take some time depending on the dataset size
 - Monitor your OpenAI usage to avoid unexpected costs
 - The model will be available in your OpenAI account after training
+
+// OPENAI_API_KEY=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
