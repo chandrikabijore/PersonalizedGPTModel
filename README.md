@@ -1,7 +1,4 @@
-# PersonalizedGPTModel
-A customized AI chatbot developed using Python, OpenAI API, and MongoDB — fine-tuned on 13,000+ Q&amp;A pairs to deliver fast, relevant, and intelligent responses tailored for educational and institutional needs.
-
-## IK-Society Chatbot Fine-tuning
+# IK-Society Chatbot Fine-tuning
 
 This project contains the code and data for fine-tuning a GPT-3.5-turbo model to create a chatbot for IK-Society.
 
